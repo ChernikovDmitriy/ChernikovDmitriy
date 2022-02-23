@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ChernikovDmitriy
-- 👀 I’m interested in Програмирование
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @ChernikovDmitriy and  i'm students  OCTO
+- 👀 I’m interested in Programming(JAVA)
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dimonchas31072004@gmail.com
 
